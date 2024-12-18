@@ -1,0 +1,12 @@
+/home/dharitri/Desktop/mx-sdk-rs-0.43.4/target/debug/deps/libignore-d81eed8ab1287c52.rmeta: /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/lib.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/default_types.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/dir.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/gitignore.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/overrides.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/pathutil.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/types.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/walk.rs
+
+/home/dharitri/Desktop/mx-sdk-rs-0.43.4/target/debug/deps/ignore-d81eed8ab1287c52.d: /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/lib.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/default_types.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/dir.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/gitignore.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/overrides.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/pathutil.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/types.rs /home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/walk.rs
+
+/home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/lib.rs:
+/home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/default_types.rs:
+/home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/dir.rs:
+/home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/gitignore.rs:
+/home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/overrides.rs:
+/home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/pathutil.rs:
+/home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/types.rs:
+/home/dharitri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.20/src/walk.rs:
